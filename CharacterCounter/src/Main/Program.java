@@ -25,6 +25,6 @@ public class Program {
         //----------------------------------
         // this doesn't count spaces 
         en.counterWithoutSpace();
-        System.out.println("Do you want to count again?");
+      //  System.out.println("Do you want to count again?");
     }
 }
